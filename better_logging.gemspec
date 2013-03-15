@@ -3,7 +3,7 @@ $:.push File.expand_path("../lib", __FILE__)
 
 Gem::Specification.new do |s|
   s.name        = "better_logging"
-  s.version     = "1.0.3"
+  s.version     = "1.1.0"
   s.authors     = ["Paul Dowman"]
   s.email       = ["paul@pauldowman.com"]
   s.homepage    = "https://github.com/pauldowman/better_logging"
